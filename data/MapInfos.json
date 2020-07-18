@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"추억 회상","order":1,"parentId":0,"scrollX":459,"scrollY":312.5}
+{"id":1,"expanded":false,"name":"추억 회상","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":2,"expanded":true,"name":"전쟁터","order":2,"parentId":0,"scrollX":459,"scrollY":304.5},
+{"id":3,"expanded":false,"name":"귀족 저택 1","order":3,"parentId":0,"scrollX":451,"scrollY":312.5}
 ]
