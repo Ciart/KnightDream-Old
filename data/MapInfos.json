@@ -10,4 +10,5 @@ null,
 {"id":8,"expanded":true,"name":"마을","order":8,"parentId":0,"scrollX":2538,"scrollY":1987},
 {"id":9,"expanded":true,"name":"성 입구","order":9,"parentId":0,"scrollX":2890,"scrollY":2745},
 {"id":10,"expanded":false,"name":"파티장","order":10,"parentId":0,"scrollX":534,"scrollY":325}
+{"id":11,"expanded":false,"name":"성 내부","order":11,"parentId":0,"scrollX":832,"scrollY":640}
 ]
