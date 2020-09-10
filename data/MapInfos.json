@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":false,"name":"정원","order":8,"parentId":0,"scrollX":909.3333333333334,"scrollY":501.3333333333333},
-{"id":2,"expanded":true,"name":"전쟁터 1","order":1,"parentId":0,"scrollX":837.75,"scrollY":656.25},
+{"id":2,"expanded":false,"name":"전쟁터 1","order":1,"parentId":0,"scrollX":1712,"scrollY":1408},
 {"id":3,"expanded":false,"name":"귀족 저택 1","order":3,"parentId":0,"scrollX":1867.6363636363637,"scrollY":1536},
-{"id":4,"expanded":false,"name":"귀족집 외부 1","order":4,"parentId":0,"scrollX":1867.6363636363637,"scrollY":1536},
+{"id":4,"expanded":false,"name":"귀족집 외부 1","order":4,"parentId":0,"scrollX":1712,"scrollY":1408},
 {"id":5,"expanded":false,"name":"MAP005","order":7,"parentId":0,"scrollX":733.7142857142857,"scrollY":603.4285714285714},
 {"id":6,"expanded":false,"name":"알현실","order":12,"parentId":11,"scrollX":420,"scrollY":608},
 {"id":7,"expanded":true,"name":"전쟁터 2","order":2,"parentId":2,"scrollX":581.3333333333334,"scrollY":458.6666666666667},
@@ -19,5 +19,6 @@ null,
 {"id":17,"expanded":false,"name":"성 2층","order":19,"parentId":15,"scrollX":1467.4285714285713,"scrollY":1206.857142857143},
 {"id":18,"expanded":false,"name":"성 3층","order":20,"parentId":15,"scrollX":530.6666666666666,"scrollY":608},
 {"id":19,"expanded":true,"name":"귀족집 1층","order":5,"parentId":4,"scrollX":1867.6363636363637,"scrollY":1536},
-{"id":20,"expanded":false,"name":"귀족집 2층","order":6,"parentId":4,"scrollX":1500,"scrollY":589.7142857142857}
+{"id":20,"expanded":false,"name":"귀족집 2층","order":6,"parentId":4,"scrollX":1500,"scrollY":589.7142857142857},
+{"id":21,"expanded":false,"name":"캐릭터 테스트","order":21,"parentId":0,"scrollX":642,"scrollY":528}
 ]
