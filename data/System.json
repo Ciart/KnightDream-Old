@@ -142,7 +142,7 @@
     false,
     true,
     false,
-    true,
+    false,
     false
   ],
   "optDisplayTp": true,
@@ -323,14 +323,14 @@
       "volume": 90
     }
   ],
-  "startMapId": 14,
-  "startX": 10,
-  "startY": 10,
+  "startMapId": 22,
+  "startX": 14,
+  "startY": 3,
   "switches": [
     "",
     "인트로 돌격",
     "타이머 진행 중",
-    "",
+    "재시작",
     "",
     "",
     "",
@@ -534,7 +534,7 @@
     "",
     ""
   ],
-  "versionId": 76338999,
+  "versionId": 87719351,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
