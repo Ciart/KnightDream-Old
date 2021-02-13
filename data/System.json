@@ -323,9 +323,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 47,
-  "startX": 7,
-  "startY": 5,
+  "startMapId": 52,
+  "startX": 3,
+  "startY": 10,
   "switches": [
     "",
     "인트로 돌격",
@@ -534,7 +534,7 @@
     "",
     ""
   ],
-  "versionId": 33826715,
+  "versionId": 22016052,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
