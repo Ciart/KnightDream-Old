@@ -105,7 +105,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 46,
+  "editMapId": 48,
   "elements": [
     "",
     "물리적",
@@ -534,7 +534,7 @@
     "",
     ""
   ],
-  "versionId": 90316476,
+  "versionId": 50086977,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
