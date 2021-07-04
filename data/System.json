@@ -105,7 +105,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 48,
+  "editMapId": 8,
   "elements": [
     "",
     "물리적",
@@ -323,9 +323,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 46,
-  "startX": 8,
-  "startY": 10,
+  "startMapId": 8,
+  "startX": 29,
+  "startY": 32,
   "switches": [
     "",
     "인트로 돌격",
@@ -534,7 +534,7 @@
     "",
     ""
   ],
-  "versionId": 50086977,
+  "versionId": 54518265,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,

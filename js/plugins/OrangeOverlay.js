@@ -453,8 +453,8 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     }
 
     if (!!layer) {
-      layer.x = $gameMap.displayX() * (0 - $gameMap.tileWidth());
-      layer.y = $gameMap.displayY() * (0 - $gameMap.tileHeight());
+      layer.x = ~~($gameMap.displayX() * (0 - $gameMap.tileWidth()));
+      layer.y = ~~($gameMap.displayY() * (0 - $gameMap.tileHeight()));
 
       if (switchId > 0) {
         if ($gameSwitches.value(switchId)) {
