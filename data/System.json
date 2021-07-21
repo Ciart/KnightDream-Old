@@ -105,7 +105,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 8,
+  "editMapId": 11,
   "elements": [
     "",
     "물리적",
@@ -323,15 +323,15 @@
       "volume": 90
     }
   ],
-  "startMapId": 8,
-  "startX": 60,
-  "startY": 67,
+  "startMapId": 22,
+  "startX": 8,
+  "startY": 10,
   "switches": [
     "",
-    "인트로 돌격",
+    "루프 진입",
     "타이머 진행 중",
-    "재시작",
-    "",
+    "루프 재시작",
+    "테스트 스위치",
     "",
     "",
     "",
@@ -534,7 +534,7 @@
     "",
     ""
   ],
-  "versionId": 27701651,
+  "versionId": 3173924,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
